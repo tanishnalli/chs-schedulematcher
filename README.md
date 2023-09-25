@@ -1,5 +1,5 @@
 # CHS Schedule Matcher
-![Logo](images/Logo.png)
+![Logo](images/logo.png)
 ## What is this?
 This is a schedule matcher that can tell you who is in your classes without the hassle of asking everyone individually.
 
