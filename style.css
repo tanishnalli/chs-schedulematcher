@@ -49,7 +49,22 @@ button:hover {
   color: white;
   padding: 25px 25px;
 }
-
-
+.periods {
+  padding-top: 25px;
+}
+.periodDescription {
+  padding-top: 15px;
+  padding-bottom: 0px;
+}
+.staffLink {
+  color: #AB2027;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.staffLink:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
 
 
