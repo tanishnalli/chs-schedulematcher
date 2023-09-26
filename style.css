@@ -48,12 +48,9 @@ button:hover {
 .loginSignUp {
   color: white;
 }
-.periods {
-  padding-top: 25px;
-}
 .periodDescription {
-  padding-top: 15px;
-  padding-bottom: 0px;
+  padding-top: 10px;
+  padding-bottom: 12px;
 }
 .staffLink {
   color: #AB2027;
